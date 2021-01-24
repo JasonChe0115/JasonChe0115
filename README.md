@@ -17,5 +17,7 @@ Here are some ideas to get you started:
                    And I came back to Hawaii, shared what we learned, and finished Debriefing. 2019 8.26 ~ 9.18
                    And I spent a week in Seoul, Korea with my family, and went to SunshineCoast in Australia to study Bible. 2019 9.24 ~ 2020 1.31
                    And I came back to Seoul for break and continued Bible study 2020 4.4 ~ 7.2
-                   Hope to finish the Bible study someday. And Wish to go back to Africa to help local people.            
+                   Hope to finish the Bible study someday. And Wish to go back to Africa to help local people.
+
 -->
+[![HitCount](http://hits.dwyl.com/https://githubcom/JasonChe0115/{project}.svg)](http://hits.dwyl.com/https://githubcom/JasonChe0115/{project})
