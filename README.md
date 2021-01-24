@@ -20,4 +20,8 @@ Here are some ideas to get you started:
                    Hope to finish the Bible study someday. And Wish to go back to Africa to help local people.
 
 -->
-[![HitCount](http://hits.dwyl.com/https://githubcom/JasonChe0115/{project}.svg)](http://hits.dwyl.com/https://githubcom/JasonChe0115/{project})
+  <div align=center>
+	
+  [![Hits](https://hits.JasonChe0115.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.JasonChe0115.com) 
+	
+  </div>
