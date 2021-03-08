@@ -16,7 +16,7 @@ And came back to Seoul for break and continued Bible study (2020 4.4 ~ 7.2) in J
 Now back in Seoul, to graduate Univ. (2020.8.1 ~ )
 
 - 🔥 My Dream is ...  
-I want to be a valuable person. And Wish to go back to Africa to help local people. And Hope to finish the whole Bible study someday.
+I want to be a valuable person. And I wish to go back to Africa to help local people. And I hope to finish the whole Bible study someday.
 
 -->
   <div align=center>
